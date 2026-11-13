@@ -28,24 +28,16 @@
 ### 🛠 AI Tools & Stack
 
 #### 🤖 AI & IDE
-![Antigravity IDE](https://shields.io)
-![Gemini](https://shields.io)
-![Claude](https://shields.io)
-![VS Code](https://shields.io)
+<img src="https://shields.io" alt="Antigravity IDE" />
+<img src="https://shields.io" alt="Gemini" />
+<img src="https://shields.io" alt="Claude" />
+<img src="https://shields.io" alt="VS Code" />
 
 #### 🎨 Design
-![Adobe Photoshop](https://shields.io)
-![Adobe After Effects](https://shields.io)
-![Blender](https://shields.io)
+<img src="https://shields.io" alt="Adobe Photoshop" />
+<img src="https://shields.io" alt="Adobe After Effects" />
+<img src="https://shields.io" alt="Blender" />
 
 #### 💻 OS & Hardware
-![Windows](https://shields.io)
-![Linux](https://shields.io)
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://vercel.app" alt="GitHub Stats" />
-</div>
+<img src="https://shields.io" alt="Windows" />
+<img src="https://shields.io" alt="Linux" />
