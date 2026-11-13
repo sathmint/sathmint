@@ -6,7 +6,7 @@
 ╚█████╗ ███████║   ██║   ███████║██╔████╔██║██║██╔██╗ ██║   ██║   
  ╚═══██╗██╔══██║   ██║   ██╔══██║██║╚██╔╝██║██║██║╚██╗██║   ██║   
 ██████╔╝██║  ██║   ██║   ██║  ██║██║ ╚═╝ ██║██║██║ ╚████║   ██║   
-╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝   ╚═╝   
+╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝   ╚═══╝   
 ```
 
 </div>
@@ -25,26 +25,15 @@
 
 ---
 
-<div align="center">
-
 ```text
-               ______
-            .-"      "-.               root@sathmint:~\$ ./init_workspace.sh
-           /            \              ---------------------------------------
-   _      (              )      _      [ SYSTEM STATUS: ONLINE ]
-  ( \     (,  .-.  .-.  ,)     / )     > Role: Web Dev & Cryptography
-   > "=._ ( )(__/  \__)( ) _.=" <      > Core: Clean Code & 3D Design
-  (_/"=._"(/     /\     \)"_.="\_)     > Encryption: AES-256 / SHA-3 [ACTIVE]
-         "(_     ^^     _)"            > Mode: Dark / Vibe-Coding
-           "\__(IIIIII)__/"
-          .="( \IIIIII/ )"=.
-   _   .="_.="\          /"=._"=.   _
-  ( \_.="_.="  `--------`  "=._"=_/ )
-   > _.="                      "=._ <
-  (_/                              \_)
+root@sathmint:~\$ ./init_workspace.sh
+---------------------------------------
+[ SYSTEM STATUS: ONLINE ]
+> Role: Web Dev & Cryptography
+> Core: Clean Code & 3D Design
+> Encryption: AES-256 / SHA-3 [ACTIVE]
+> Mode: Dark / Vibe-Coding
 ```
-
-</div>
 
 ---
 
