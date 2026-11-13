@@ -15,13 +15,15 @@
 
 ### 👤 About Me
 
-💻 Web Dev | 🔐 Crypto & Security | ⚙️ Clean Code. Building interactive web experiences & exploring cryptography.
+> **💻 WEB DEV &nbsp;◈&nbsp; 🔐 CRYPTO & SECURITY &nbsp;◈&nbsp; ⚙️ CLEAN CODE**
+> 
+> **Building interactive web experiences & exploring cryptography.**
 
 ### 🚀 What I'm currently doing / building
 
-* Developing an assistant bot in Telegram.
-* Designing minimalist UI/UX and logos using Adobe Suite & Blender.
-* Tinkering with my projects and setups.
+* **Developing an assistant bot in Telegram.**
+* **Designing minimalist UI/UX and logos using Adobe Suite & Blender.**
+* **Tinkering with my projects and setups.**
 
 ---
 
@@ -57,4 +59,3 @@ root@sathmint:~\$ _
 
 | `🪟 WINDOWS` | `🐧 LINUX` |
 | :---: | :---: |
-
