@@ -57,19 +57,4 @@
 ![Claude](https://shields.io)
 ![VS Code](https://shields.io)
 
-#### 🎨 Design
-![Adobe Photoshop](https://shields.io)
-![Adobe After Effects](https://shields.io)
-![Blender](https://shields.io)
-
-#### 💻 OS & Hardware
-![Windows](https://shields.io)
-![Linux](https://shields.io)
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://vercel.app" alt="GitHub Stats" />
-</div>
+#
