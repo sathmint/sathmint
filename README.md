@@ -1,16 +1,45 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**sathmint/sathmint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Баннер с текстом SATHMINT -->
+<img src="https://vercel.app" alt="SATHMINT Banner" />
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👤 About Me
+
+💻 Web Dev | 🔐 Crypto & Security | ⚙️ Clean Code. Building interactive web experiences & exploring cryptography.
+
+### 🚀 What I'm currently doing / building
+
+* Developing an assistant bot in Telegram.
+* Designing minimalist UI/UX and logos using Adobe Suite & Blender.
+* Tinkering with my projects and setups.
+
+---
+
+### 🛠 AI Tools & Stack
+
+#### 🤖 AI & IDE
+![Antigravity IDE](https://shields.io)
+![Gemini](https://shields.io)
+![Claude](https://shields.io)
+![VS Code](https://shields.io)
+
+#### 🎨 Design
+![Adobe Photoshop](https://shields.io)
+![Adobe After Effects](https://shields.io)
+![Blender](https://shields.io)
+
+#### 💻 OS & Hardware
+![Windows](https://shields.io)
+![Linux](https://shields.io)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://vercel.app" alt="GitHub Stats" />
+</div>
