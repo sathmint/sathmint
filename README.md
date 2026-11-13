@@ -13,6 +13,8 @@
 
 ---
 
+<img align="right" width="230" src="ascii.gif" alt="ASCII Motion" />
+
 ### 👤 About Me
 
 💻 Web Dev | 🔐 Crypto & Security | ⚙️ Clean Code. Building interactive web experiences & exploring cryptography.
@@ -22,6 +24,8 @@
 * Developing an assistant bot in Telegram.
 * Designing minimalist UI/UX and logos using Adobe Suite & Blender.
 * Tinkering with my projects and setups.
+
+<br clear="right"/>
 
 ---
 
@@ -41,3 +45,5 @@
 
 | `🪟 WINDOWS` | `🐧 LINUX` |
 | :---: | :---: |
+
+
