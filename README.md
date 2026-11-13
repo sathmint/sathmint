@@ -44,17 +44,3 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://vercel.app" alt="GitHub Stats" />
-</div>
-### 🛠 AI Tools & Stack
-
-#### 🤖 AI & IDE
-![Antigravity IDE](https://shields.io)
-![Gemini](https://shields.io)
-![Claude](https://shields.io)
-![VS Code](https://shields.io)
-
-#
