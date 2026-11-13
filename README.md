@@ -26,13 +26,17 @@
 ---
 
 ```text
-root@sathmint:~\$ ./init_workspace.sh
----------------------------------------
-[ SYSTEM STATUS: ONLINE ]
-> Role: Web Dev & Cryptography
-> Core: Clean Code & 3D Design
-> Encryption: AES-256 / SHA-3 [ACTIVE]
-> Mode: Dark / Vibe-Coding
+root@sathmint:~\$ ./init_workspace.sh --stealth
+[▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░] 92% // LOADING ENVIRONMENT...
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+⚡ [ SYSTEM STATUS ] : ONLINE  ◈  PING: 12ms  ◈  UPTIME: 99.9%
+> Role       :: Web Dev & Cryptography
+> Core       :: Clean Code & 3D Design
+> Encryption :: AES-256 / SHA-3 [VERIFIED ✔]
+> Mode       :: Dark / Vibe-Coding
+> Hash       :: 0x9F8A...7B2E [SECURE_TUNNEL]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+root@sathmint:~\$ _
 ```
 
 ---
@@ -53,3 +57,4 @@ root@sathmint:~\$ ./init_workspace.sh
 
 | `🪟 WINDOWS` | `🐧 LINUX` |
 | :---: | :---: |
+
