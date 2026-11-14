@@ -37,6 +37,9 @@ root@sathmint:~\$ ./init_workspace.sh --stealth
 > Encryption :: AES-256 / SHA-3 [VERIFIED ✔]
 > Mode       :: Coding / Vibe-coding
 > Hash       :: 0x9F8A...7B2E [SECURE_TUNNEL]
+[🤖PROJECTS🤖]
+> https://sathmint.github.io/pass-term/ - code generator
+> https://sathmint.github.io/RCodes/ - five-digit code generator
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 root@sathmint:~\$ _
 ```
