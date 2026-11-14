@@ -60,33 +60,30 @@ root@sathmint:~\$ _
 | `🪟 WINDOWS` | `🐧 LINUX` |
 | :---: | :---: |
 
-⭐️Social networks
-[+] INIT_WORKSPACE
-[||||||||||||] 100%
+[+] INIT_WORKSPACE.SH
+[████████████] 100% // ERR
 
 ⚡ STATUS : ONLINE
-◆ PING   : 12ms
+◆ PING   : 12ms  [sath]
 ◆ UPTIME : 99.9%
 
 > Identity ::
-   ▓█▀▀ ▄▀▄ ▀█▀ █ █
-   ▒▄▀░ █▀█  █  █▀█
-   ░▀▀▀ ▀░▀  ░  ▀░▀
-   ▓█ █▄ █ ▀█▀
-   ▒█ █ ██  █
-   ░▀ ▀░ ▀▀  ░
+  S̷A̷T̷H̷M̷I̷N̷T̷
+  ░s̷a̷t̷h̷m̷i̷n̷t̷░
 
 > Hash ::
-   0x9F8A...7B2E
-   [SECURE_TUNNEL]
+  0x9F8A...7B2E
+  [SYS_CORRUPTED_]
+  [SECURE_TUNNEL]
 
 🌐 CONNECTIONS
 ------------------
-> TG : t.me/dqwze
-> TW : twitch.tv/itscusterwin
-> DC : sathmint#0000
-> X  : x.com/sathmint
+> TG : t.me/dqwze       [OK]
+> TW : twitch.tv/itscusterwin 
+> DC : sathmint#0000    [OK]
+> X  : x.com/sathmint   [LAG]
 ------------------
 
 root@sathmint:~# _
+_[SIGNAL_LOST]_
 
