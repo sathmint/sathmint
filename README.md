@@ -57,8 +57,7 @@ root@sathmint:~\$ _
 
 #### 💻 OS & Hardware
 
-| `🪟 WINDOWS` | 🐧LINUX
-| :---: | :---: | :---: |
+| `🪟 WINDOWS` | 
 
 root@sathmint:~$ ./init.sh
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 92% LOADING...
@@ -74,8 +73,11 @@ root@sathmint:~$ ./init.sh
 🌐 [ N̷E̷T̷W̷O̷R̷K̷ ]
 --------------------
 > TG: t.me/dqwze
+
 > TW: twitch.tv/itscusterwin
+
 > DC: sathmint#0000
+
 > X : x.com/sathmint
 --------------------
 
