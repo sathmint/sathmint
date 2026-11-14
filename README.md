@@ -62,11 +62,29 @@ root@sathmint:~\$ _
 
 ⭐️Social networks⭐️
 
-| ✈️telegram | ✨tiktok |
-| :---: | :---: |
-
-
-▓█▀▀█ ▄▀▄ ▀█▀ █ █ █▄█ █ █▄ █ ▀█▀
-░▄▀░  █▀█  █  █▀█ █▀█ █ █ ██  █ 
-▒▀▀▀ ▀░▀  ░  ▀░▀ ▀░▀ ▀ ▀░ ▀▀  ░
+╔════════════════════════════════════════════════════════════════════════╗
+║ [root@sathmint]~$ ./init_workspace.sh --stealth                        ║
+║ [████████████████████████████████████████] 100% // LOADING ENVIRONMENT ║
+╠════════════════════════════════════════════════════════════════════════╣
+║                                                                        ║
+║  ⚡ [ SYSTEM STATUS ] : ONLINE  ◆  PING: 12ms  ◆  UPTIME: 99.9%        ║
+║                                                                        ║
+║  > Identity   ::                                                       ║
+║                                                                        ║
+║       █▀▀ ▄▀▄ ▀█▀ █ █ █▄█ █ █▄ █ ▀█▀                                  ║
+║       ▄▀░ █▀█  █  █▀█ █▀█ █ █ ██  █                                   ║
+║       ▀▀▀ ▀░▀  ░  ▀░▀ ▀░▀ ▀ ▀░ ▀▀  ░                                   ║
+║                                                                        ║
+║  > Hash       :: 0x9F8A...7B2E [SECURE_TUNNEL]                         ║
+║                                                                        ║
+╠════════════════════════════════════════════════════════════════════════╣
+║  🌐 [ NETWORK CONNECTIONS ]                                            ║
+║                                                                        ║
+║  > Telegram   :: t.me/dqwze          [CONNECTED]                    ║
+║  > Twitch     :: twitch.tv/itscusterwin     [STREAMING]                    ║
+║  > Discord    :: sathmint#0000          [ONLINE]                       ║
+║  > X (Twitter):: x.com/sathmint         [LINKED]                       ║
+║                                                                        ║
+╚════════════════════════════════════════════════════════════════════════╝
+root@sathmint:~# _
 
