@@ -14,20 +14,21 @@
 ---
 
 ```text
-root@sathmint:~\$ ./init_workspace.sh --stealth
-[▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░] 92% // LOADING ENVIRONMENT...
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-⚡ [ SYSTEM STATUS ] : ONLINE  ◈  PING: 12ms  ◈  UPTIME: 99.9%
-> Role       :: Web Dev & Cryptography
-> Core       :: Clean Code & 3D Design
-> Encryption :: AES-256 / SHA-3 [VERIFIED ✔]
-> Mode       :: Coding / Vibe-coding
-> Hash       :: 0x9F8A...7B2E [SECURE_TUNNEL]
-[🤖PROJECTS🤖]
-> https://sathmint.github.io/pass-term/ - code generator
-> https://sathmint.github.io/RCodes/ - five-digit code generator
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-root@sathmint:~\$ _
+root@sathmint:~$ ./init_workspace.sh --stealth                      .?%S#@
+[▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░] 92% // LOADING ENVIRONMENT...              .?%S#@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━          .?%S#@
+⚡ [ SYSTEM STATUS ] : ONLINE  ◈  PING: 12ms  ◈  UPTIME: 99.9%     .?%S#@
+> Role       :: Web Dev & Cryptography                              .?%S#@
+> Core       :: Clean Code & 3D Design                              .?%S#@
+> Encryption :: AES-256 / SHA-3 [VERIFIED ✔]                 ..?%   .?%S#@   S#@@
+> Mode       :: Coding / Vibe-coding                          .?%%  .?%S#@  SS#@
+> Hash       :: 0x9F8A...7B2E [SECURE_TUNNEL]                  .?%%?.?%S#@%SS#@
+[🤖PROJECTS🤖]                                                 .?%%%?%S#SSS#@
+> https://github.io - code generator                             .?%%S%SSSS#@
+> https://github.io - five-digit code gen                         .?%SSSSS#@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━         .?%SSS#@
+root@sathmint:~$ _                                                  .?%S#@
+
 ```
 ```text
 ╔═══════════════════════════════════════════════════════▓▒░  ▒ ░   ·   .    .      PROJECTS
