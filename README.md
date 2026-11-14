@@ -62,5 +62,5 @@ root@sathmint:~\$ _
 
 ####⭐️Social networks⭐️
 
-| '✈️telegram' | '✨tiktok' |
+| ✈️telegram' | ✨tiktok' |
 | :---: | :---: |
