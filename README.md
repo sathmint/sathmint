@@ -85,3 +85,8 @@ root@sathmint:~\$ _
 ║  root@sathmint:~# _  ▓▓▓ [ SIGNAL LOST ] ▓▓▓           ▓▒ ░  ▒ ░  ·  .    .
 ╚═══════════════════════════════════════════════════════▓▒░  ▒ ░   ·   .    .
 ```
+Projects👇
+
+https://dqpasswords.netlify.app
+
+https://dnpq.netlify.app
