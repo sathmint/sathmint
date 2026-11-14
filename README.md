@@ -30,11 +30,11 @@ root@sathmint:~\$ ./init_workspace.sh --stealth
 root@sathmint:~\$ _
 ```
 ```text
-╔═══════════════════════════════════════════════════════▓▒░  ▒ ░   ·   .    .
+╔═══════════════════════════════════════════════════════▓▒░  ▒ ░   ·   .    .      PROJECTS
 ║  root@sathmint:~\$ ./init.sh                            ▓ ▒  ░  ·   .   .
-║  [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░] 92% // LOADING...      ▒ ░  ·  ·   .    .
+║  [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░] 92% // LOADING...      ▒ ░  ·  ·   .    .       🖤https://sathmint.github.io/RCodes/ - five-digit code generator🖤
 ║                                                        ▓ ▒ ░  ·   ·  .     .
-║  [!] ▛▀▀▀  S A T H M I N T  ▀▀▀▜                       ▓▒ ░  ▒ ░  ·   .   .
+║  [!] ▛▀▀▀  S A T H M I N T  ▀▀▀▜                       ▓▒ ░  ▒ ░  ·   .   .    🖤https://sathmint.github.io/pass-term/ - pass-term🖤
 ║                                                        ▒ ░  ·   .   .
 ║   ▄▀▀ ▄▀▄ ▀█▀ █▄█ █▄ ▄█ █ █▄ █ ▀█▀                     ▓ ▒ ░  ▒ ░  ·  .    .
 ║   ▄██ █▀█  █  █ █ █ ▀ █ █ █ ▀█  █                      ▒ ░  ·  ·   .   .
