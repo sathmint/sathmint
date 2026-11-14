@@ -59,3 +59,8 @@ root@sathmint:~\$ _
 
 | `🪟 WINDOWS` | `🐧 LINUX` |
 | :---: | :---: |
+
+####⭐️Social networks⭐️
+
+| '✈️telegram' | '✨tiktok' |
+| :---: | :---: |
