@@ -60,30 +60,30 @@ root@sathmint:~\$ _
 | `🪟 WINDOWS` | `🐧 LINUX` |
 | :---: | :---: |
 
-[+] INIT_WORKSPACE.SH
-[████████████] 100% // ERR
+╔════════════════════════════════════╗
+║ root@sathmint:~$ ./init.sh         ║
+║ [█████████████████] 92% LOADING... ║
+╠════════════════════════════════════╣
+║  ███ █   █ █████ █████ █████ ██   ██║
+║ █    █   █   █   █       █   ███ ███║
+║  ███ █   █   █   ████    █   █ ███ █║
+║    █ █   █   █   █       █   █  █  █║
+║  ███ █████ █████ █████   █   █     █║
+║                                    ║
+║ ⚡ S̷Y̷S̷T̷E̷M̷ ̷S̷T̷A̷T̷U̷S̷ ⚡               ║
+║ > O̷N̷L̷I̷N̷E̷ <                         ║
+║ ◆ PING: 12ms ◆ UPTIME: 99.9%       ║
+╠════════════════════════════════════╣
+║ > Identity :: S̷A̷T̷H̷M̷I̷N̷T̷                ║
+║ > Hash :: 0x9F8A...7B2E [SECURE]   ║
+╠════════════════════════════════════╣
+║ 🌐 [ N̷E̷T̷W̷O̷R̷K̷ ]                       ║
+║ > TG: t.me/dqwze                   ║
+║ > TW: twitch.tv/itscusterwin       ║
+║ > DC: sathmint#0000                ║
+║ > X : x.com/sathmint               ║
+╠════════════════════════════════════╣
+║ root@sathmint:~# _ [SIGNAL_LOST]   ║
+╚════════════════════════════════════╝
 
-⚡ STATUS : ONLINE
-◆ PING   : 12ms  [sath]
-◆ UPTIME : 99.9%
-
-> Identity ::
-  S̷A̷T̷H̷M̷I̷N̷T̷
-  ░s̷a̷t̷h̷m̷i̷n̷t̷░
-
-> Hash ::
-  0x9F8A...7B2E
-  [SYS_CORRUPTED_]
-  [SECURE_TUNNEL]
-
-🌐 CONNECTIONS
-------------------
-> TG : t.me/dqwze       [OK]
-> TW : twitch.tv/itscusterwin 
-> DC : sathmint#0000    [OK]
-> X  : x.com/sathmint   [LAG]
-------------------
-
-root@sathmint:~# _
-_[SIGNAL_LOST]_
 
