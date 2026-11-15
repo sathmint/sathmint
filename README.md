@@ -80,5 +80,5 @@ root@sathmint:~$ _                                                  .?%S#@
 #### 💻 OS & Hardware
 
 | `🪟 WINDOWS` | 
-
+| :---: | :--- |
 ```text
