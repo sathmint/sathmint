@@ -24,7 +24,7 @@ root@sathmint:~$ ./init_workspace.sh --stealth                      .?%S#@
 > Mode       :: Coding / Vibe-coding                          .?%%  .?%S#@  SS#@     ╚════██║██╔══██║
 > Hash       :: 0x9F8A...7B2E [SECURE_TUNNEL]                  .?%%?.?%S#@%SS#@      ███████║██║  ██║
 [🤖PROJECTS🤖]                                                 .?%%%?%S#SSS#@       ╚══════╝╚═╝  ╚═╝
-> https://github.io - code generator                             .?%%S%SSSS#@
+> ‼️SATH Linux distribution‼️                                   .?%%S%SSSS#@
 > https://github.io - five-digit code gen                         .?%SSSSS#@
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━         .?%SSS#@
 root@sathmint:~$ _                                                  .?%S#@
