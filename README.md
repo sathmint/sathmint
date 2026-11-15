@@ -33,9 +33,9 @@ root@sathmint:~$ _                                                  .?%S#@
 ```text
 ╔═══════════════════════════════════════════════════════▓▒░  ▒ ░   ·   .    .      PROJECTS
 ║  root@sathmint:~$ ./init.sh                            ▓ ▒  ░  ·   .   .
-║  [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░] 92% // LOADING...      ▒ ░  ·  ·   .    .       🖤https://github.io - five-digit code generator🖤
+║  [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░] 92% // LOADING...      ▒ ░  ·  ·   .    .       https://github.io - five-digit code generator
 ║                                                        ▓ ▒ ░  ·   ·  .     .
-║  [!] ▛▀▀▀  S A T H M I N T  ▀▀▀▜                       ▓▒ ░  ▒ ░  ·   .   .    🖤https://github.io - pass-term🖤
+║  [!] ▛▀▀▀  S A T H M I N T  ▀▀▀▜                       ▓▒ ░  ▒ ░  ·   .   .     https://github.io - pass-term
 ║                                                        ▒ ░  ·   .   .
 ║   ▄▀▀ ▄▀▄ ▀█▀ █▄█ █▄ ▄█ █ █▄ █ ▀█▀                     ▓ ▒ ░  ▒ ░  ·  .    .
 ║   ▄██ █▀█  █  █ █ █ ▀ █ █ █ ▀█  █                      ▒ ░  ·  ·   .   .          ███████╗ █████╗ ████████╗██╗  ██╗
@@ -59,11 +59,11 @@ root@sathmint:~$ _                                                  .?%S#@
 ```
 
 ---
-⭐my projects⭐
+⭐my projects👇
 
-🖤https://sathmint.github.io/RCodes/ - five-digit code generator🖤
+https://sathmint.github.io/RCodes/ - five-digit code generator
 
-🖤https://sathmint.github.io/pass-term/ - pass-term🖤
+https://sathmint.github.io/pass-term/ - pass-term
 
 ### 🛠 AI Tools & Stack
 
@@ -80,5 +80,5 @@ root@sathmint:~$ _                                                  .?%S#@
 #### 💻 OS & Hardware
 
 | `🪟 WINDOWS` | 
-| :---: | :--- |
+
 ```text
