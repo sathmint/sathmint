@@ -21,7 +21,7 @@ root@sathmint:~$ ./init_workspace.sh --stealth
 > Role       :: Web Dev & Cryptography                                    
 > Core       :: Clean Code & 3D Design                                    
 > Encryption :: AES-256 / SHA-3 [VERIFIED ✔]                
-> Mode       :: Coding / Vibe-coding                          
+> Mode       :: N/A                         
 > Hash       :: 0x9F8A...7B2E [SECURE_TUNNEL]                     
 [🤖PROJECTS🤖]                                                    
 > ‼️SATH Linux distribution‼️                                  
