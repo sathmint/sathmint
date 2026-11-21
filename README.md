@@ -12,13 +12,8 @@
 </div>
 
 ---
+![HTML5]( <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="60" height="60" />) ![Debian](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" width="60" height="60" />)
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="60" height="60" />
-
- <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" width="60" height="60" />
-          
 
 ```text
 root@sathmint:~$ ./init_workspace.sh --stealth                      
