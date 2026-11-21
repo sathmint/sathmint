@@ -32,24 +32,29 @@
 
 ```text
 ```text
-root@sathmint:~\$ ./init_workspace.sh --stealth                              ▄██▄
-[▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░] 92% // LOADING ENVIRONMENT...                       ████
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━               ▄▄▄██████▄▄▄
-⚡ [ SYSTEM STATUS ] : ONLINE  ◈  PING: 12ms  ◈  UPTIME:             ▄████████████████▀
-> Role       :: Web Dev & Cryptography                              ▄████▀   ████   ▀██▀
-> Core       :: Clean Code & 3D Design                             ████▀  ▄▄▄████▄▄▄  ▀
-> Encryption :: AES-256 / SHA-3 [VERIFIED ✔]                       ████  ████(o)████
-> Mode       :: N/A                                                ████▄  ▀▀▀████▀▀▀
-> Hash       :: 0x9F8A...7B2E [SECURE_TUNNEL]                       ▀████▄▄  ████
-[🤖PROJECTS🤖]                                                      ▀▀█████▄████▄▄
-> ‼️SATH Linux distribution‼️                                     ▄█▄    ▀████████████▄
-> https://github.io - five-digit code gen                         ▄████▄▄   ████   ▀█████▄
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━          ▀███████████████████▀
-root@sathmint:~\$ _                                                  ▀▀███████████████▀
-                                                                          ▀▀▀████▀▀▀
-                                                                             ████
-                                                                             ▀██▀
-                                                                              ▼
+root@sathmint:~\$ ./init_workspace.sh --stealth                     (_)
+[▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░] 92% // LOADING ENVIRONMENT...             |===|
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━      .--|===|------.
+⚡ [ SYSTEM STATUS ] : ONLINE  ◈  PING: 12ms  ◈  UPTIME:     .' .-|===|----.  /
+> Role       :: Web Dev & Cryptography                          /  |===|     \/
+> Core       :: Clean Code & 3D Design                     |  | --+-(o)-+--
+> Encryption :: AES-256 / SHA-3 [VERIFIED ✔]               |  |  .-'| |'-.
+> Mode       :: N/A                                         \  \ / .-+-+. \
+> Hash       :: 0x9F8A...7B2E [SECURE_TUNNEL]                '. '._\ | /_.'
+[🤖PROJECTS🤖]                                                '-.  \|/  '-.
+> ‼️SATH Linux distribution‼️                              .-.   '-| |-'   '.
+> https://github.io - five-digit code gen                  .-.      | |   .-. \
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ </  / |  | |  /   \ \
+root@sathmint:~\$ _                                         \  \  '-| |-'   /  )
+                                                             '. '.__| |____/  /
+                                                               '-.--| |---'  /
+                                                                 .--| |----'
+                                                                    | |
+                                                                    \ /
+                                                                     V
+```
+
+                                                                              
 ```
 
 </table>
