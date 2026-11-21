@@ -13,13 +13,10 @@
 
 ---
 
-<p align="left"><img src="
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" />
-          " width="60" height="60" /> <img src="
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" />
-          " width="60" height="60" /> <img src="
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-          " width="60" height="60" /></p>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="100" height="100" />
+
+          
 
 
 
