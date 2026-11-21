@@ -13,7 +13,8 @@
 
 ---
 
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" />
+ <img src="ваша_ссылка_на_иконку.svg" width="40" height="40" />
+
           
 
 ```text
