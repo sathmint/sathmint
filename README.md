@@ -14,10 +14,10 @@
 ---
 
 <p align="left">
-  <img src="https://jsdelivr.net" width="100" height="100" alt="Android" />
-  <img src="https://jsdelivr.net" width="100" height="100" />
-  <img src="https://jsdelivr.net" width="100" height="100" />
-  <img src="https://jsdelivr.net" width="100" height="100" />
+  <img src="https://githubusercontent.com" width="80" height="80" alt="Android" />
+  <img src="https://githubusercontent.com" width="80" height="80" alt="Kotlin" />
+  <img src="https://githubusercontent.com" width="80" height="80" alt="Java" />
+  <img src="https://githubusercontent.com" width="80" height="80" alt="Git" />
 </p>
 
 
