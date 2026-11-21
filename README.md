@@ -13,9 +13,7 @@
 
 ---
 
-<p align="left"><img src="https://jsdelivr.net" width="60" height="60" /> <img src="https://jsdelivr.net" width="60" height="60" /> <img src="https://jsdelivr.net" width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firefox/firefox-original.svg" width="60" height="60" /></p>
-
-
+<p align="left"><img src="https://jsdelivr.net" width="60" height="60" /> <img src="https://jsdelivr.net" width="60" height="60" /> <img src="https://jsdelivr.net" width="60" height="60" /></p>
 
 ```text
 root@sathmint:~$ ./init_workspace.sh --stealth                      
