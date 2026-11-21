@@ -78,14 +78,3 @@ root@sathmint:~$ _
 | `🪟 WINDOWS` | 
 
 ```text
-### 💻 Languages & Tech Stack
-
-<p align="left">
-  <img src="https://shields.io" alt="Python" />
-  <img src="https://shields.io" alt="JavaScript" />
-  <img src="https://shields.io" alt="TypeScript" />
-  <img src="https://shields.io" alt="C++" />
-  <img src="https://shields.io" alt="Rust" />
-  <img src="https://shields.io" alt="Linux" />
-  <img src="https://shields.io" alt="Bash" />
-</p>
