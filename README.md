@@ -13,7 +13,8 @@
 
 ---
 
-<p align="left"><img src="https://jsdelivr.net" width="60" height="60" /> <img src="https://jsdelivr.net" width="60" height="60" /> <img src="https://jsdelivr.net" width="60" height="60" /></p>
+<p align="left"><img src="https://jsdelivr.net" width="60" height="60" /> <img src="https://jsdelivr.net" width="60" height="60" /> <img src="ССЫЛКА_НА_ТРЕТЬЮ_ИКОНКУ" width="60" height="60" /></p>
+
 
 ```text
 root@sathmint:~$ ./init_workspace.sh --stealth                      
