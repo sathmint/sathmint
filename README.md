@@ -32,22 +32,21 @@
 
 ```text
 ```text
-root@sathmint:~\$ ./init_workspace.sh --stealth                 _.-'``'-.
-[▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░] 92% // LOADING ENVIRONMENT...       .-'  _..--''`
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   .'  .-'  *  .  *
-⚡ [ SYSTEM STATUS ] : ONLINE  ◈  PING: 12ms  ◈  UPTIME:  /   /  .'  .-'```'-.
-> Role       :: Web Dev & Cryptography                 |   |  /  .'  .-"""-.  '.
-> Core       :: Clean Code & 3D Design                |   | |  /  /  .'   '.  \
-> Encryption :: AES-256 / SHA-3 [VERIFIED ✔]          \   \ \ |  |  |  ~  |  |
-> Mode       :: Coding                                 '.  '.\ \  \  '.___.'  /
-> Hash       :: 0x9F8A...7B2E [SECURE_TUNNEL]            '-.  '-.\  '._______.'
-[🤖PROJECTS🤖]                                       _..--''``'-.._  ~   ~   ~
-> ‼️SATH Linux distribution‼️                    _.-'  ~   ~   ~   ``'--.._  ~
-> https://github.io - five-digit code gen    _.-'  ~   ~   ~   ~   ~   ~   ``'-._
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ~   ~   ~   ~   ~   ~
-root@sathmint:~\$ _                                ~   ~   ~   ~   ~   ~   ~
+root@sathmint:~\$ ./init_workspace.sh --stealth                     _..--''``''--.._      *  .  °   .  *    .
+[▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░] 92% // LOADING ENVIRONMENT...          _.-'  _..--''``''--.._'-.   .  *  °   .   *  .
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━     .-'  .-'  *  .  °  *  .  `'-.  *  .  °  *  .
+⚡ [ SYSTEM STATUS ] : ONLINE  ◈  PING: 12ms  ◈  UPTIME:    /   .'  .'  _..--''''--.._  '.  `\  .  °  *   .
+> Role       :: Web Dev & Cryptography                   /   /   /  .'  .-'````'-.  '.  \  `\  *  .  °
+> Core       :: Clean Code & 3D Design                  |   |   |  /  .'  .-"""-.  '.  \  |  |  .  *  .
+> Encryption :: AES-256 / SHA-3 [VERIFIED ✔]            |   |   | |  |  /  .'   '.  \  |  |  |  .  °  *
+> Mode       :: Coding                                  \   \   \ \  \ |  |  (≈)  |  | /  /  /  *  .
+> Hash       :: 0x9F8A...7B2E [SECURE_TUNNEL]            '.  '.  '.\  \ \  '.___.'  / /  /  .'  .  °
+[🤖PROJECTS🤖]                                             '-.  '-.\  '.________.'-'  .-'  .  *
+> SATH Linux distribution                             _..--''``'-.._  ``''--....--''``  _..--''``'-.._
+> https://github.io - five-digit code gen        _.-'  ~   ≈   ~   ``'--..________..--''``   ~   ≈   ~  '-._
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ~   ≈   ~   ~   ≈   ~   ~   ≈   ~   ~   ≈   ~   ~
+root@sathmint:~\$ _                                ~   ~   ≈   ~   ~   ≈   ~   ~   ≈   ~   ~   ≈   ~   ~   ~
 ```
-
 
                                                                               
 ```
