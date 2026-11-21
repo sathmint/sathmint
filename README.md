@@ -13,7 +13,14 @@
 
 ---
 
- <img src="ваша_ссылка_на_иконку.svg" width="40" height="40" />
+<p align="left">
+  <img src="https://jsdelivr.net" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" />
+  <img src="https://jsdelivr.net" width="40" height="40" />
+  <img src="https://jsdelivr.net" width="40" height="40" />
+  <img src="https://jsdelivr.net" width="40" height="40" />
+  <img src="https://jsdelivr.net" width="40" height="40" />
+</p>
 
           
 
@@ -32,7 +39,3 @@ root@sathmint:~$ ./init_workspace.sh --stealth
 > https://github.io - five-digit code gen                         
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━         
 root@sathmint:~$ _                                                  
-
-
-
-
