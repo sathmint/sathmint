@@ -13,7 +13,12 @@
 
 ---
 
-<p align="left"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" width="60" height="60" /></p>
+<p align="left">
+  <img src="https://jsdelivr.net" width="100" height="100" alt="Android" />
+  <img src="https://jsdelivr.net" width="100" height="100" />
+  <img src="https://jsdelivr.net" width="100" height="100" />
+  <img src="https://jsdelivr.net" width="100" height="100" />
+</p>
 
 
 ```text
