@@ -13,7 +13,13 @@
 
 ---
 
-<p align="left"><img src="https://jsdelivr.net" width="60" height="60" /> <img src="https://jsdelivr.net" width="60" height="60" /> <img src="ССЫЛКА_НА_ТРЕТЬЮ_ИКОНКУ" width="60" height="60" /></p>
+<p align="left"><img src="
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" />
+          " width="60" height="60" /> <img src="
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" />
+          " width="60" height="60" /> <img src="
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+          " width="60" height="60" /></p>
 
 
 
