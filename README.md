@@ -78,10 +78,3 @@ root@sathmint:~$ _
 | `🪟 WINDOWS` | 
 
 ```text
-#### 💻 Languages & Tech Stack
-
-![Languages](https://skillicons.dev)
-
-#### 🛠️ Tools, 3D & OS
-
-![Tools](https://skillicons.dev)
