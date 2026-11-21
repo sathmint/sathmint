@@ -77,4 +77,29 @@ root@sathmint:~$ _
 
 | `🪟 WINDOWS` | 
 
-```text
+#### 💻 Languages & Tech Stack
+
+<p align="left">
+  <img src="https://jsdelivr.net" width="40" height="40" />
+  <img src="https://jsdelivr.net" width="40" height="40" />
+  <img src="https://jsdelivr.net" width="40" height="40" />
+  <img src="https://jsdelivr.net" width="40" height="40" />
+  <img src="https://jsdelivr.net" width="40" height="40" />
+  <img src="https://jsdelivr.net" width="40" height="40" />
+  <img src="https://jsdelivr.net" width="40" height="40" />
+  <img src="https://jsdelivr.net" width="40" height="40" />
+</p>
+
+#### 🛠️ Tools, 3D & OS
+
+<p align="left">
+  <img src="https://jsdelivr.net" width="40" height="40" />
+  <img src="https://jsdelivr.net" width="40" height="40" />
+  <img src="https://jsdelivr.net" width="40" height="40" />
+  <img src="https://jsdelivr.net" width="40" height="40" />
+  <img src="https://jsdelivr.net" width="40" height="40" />
+  <img src="https://jsdelivr.net" width="40" height="40" />
+  <img src="https://jsdelivr.net" width="40" height="40" />
+  <img src="https://jsdelivr.net" width="40" height="40" />
+</p>
+
